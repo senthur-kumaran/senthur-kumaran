@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Senior Software Engineer (Full stack)
 - 🌱 I’m currently learning about Web3
-- 💬 Ask me about anything on [![Stackoverflow Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/senthur-kumaran/)
+- 💬 Ask me about anything on [![Stackoverflow Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/senthur-kumaran/)
 - 📫 How to reach me on [![Linkedin Badge](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=flat-square&logo=Stackoverflow&color=lightgrey)](https://stackoverflow.com/users/6293914/senthurkumaran)
 - 😄 Pronouns: He/Him/His
 
@@ -31,6 +31,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" height="40em" />
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="ESlint" height="40em" />
+  <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/prettier.svg" alt="Prettier" height="40em" />
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="Npm" height="40em" />
   
   <img src="https://mui.com/static/logo.png" alt="MaterialUI" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="40em" />
