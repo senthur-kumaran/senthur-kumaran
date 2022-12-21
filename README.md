@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working as Senior Software Engineer (Full stack)
 - 🌱 I’m currently learning about Web3
-- 💬 Ask me about Javascript, Typescript, NodeJS, ExpressJS, ReactJS, GraphQL, AWS, Serverless and etc.
-- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/senthur-kumaran/)
+- 💬 Ask me about anything on [![Stackoverflow Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/senthur-kumaran/)
+- 📫 How to reach me on [![Linkedin Badge](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=flat-square&logo=Stackoverflow&color=lightgrey)](https://stackoverflow.com/users/6293914/senthurkumaran)
 - 😄 Pronouns: He/Him/His
 
 ### Familier Technologies and Tools
@@ -28,6 +28,9 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" height="40em" />
   <img src="https://www.scottbrady91.com/img/logos/swagger-banner.png" alt="Swagger" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="Webpack" height="40em" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="40em" />
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" height="40em" />
+  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" height="40em" />
   
   <img src="https://mui.com/static/logo.png" alt="MaterialUI" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="40em" />
@@ -38,6 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="TailwindCSS" height="40em" />
   
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40em" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github" height="40em" />
   <img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="Bitbucket" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="40em" />
