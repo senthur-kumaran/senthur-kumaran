@@ -6,9 +6,9 @@
 - 📫 How to reach me on [![Linkedin Badge](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=flat-square&logo=Stackoverflow&color=lightgrey)](https://stackoverflow.com/users/6293914/senthurkumaran)
 - 😄 Pronouns: He/Him/His
 
-### Familier Technologies and Tools
 <!-- Used https://shields.io/badges to generate the badges -->
 <!-- Used https://simpleicons.org/ to get the logos -->
+### Technologies
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=FFFFFF">
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=FFFFFF">
@@ -43,6 +43,11 @@
   <img alt="Bootstarp" src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=FFFFFF">
   <img alt="JQuery" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=FFFFFF">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=FFFFFF">
+  <img alt="Playwright" src="https://img.shields.io/badge/playwright-000000?style=for-the-badge&logoColor=000000&labelColor=FFFFFF">
+</div>
+
+### Tools
+<div>
   <img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=FFFFFF">
   <img alt="Github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=FFFFFF">
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=0052CC&labelColor=FFFFFF">
@@ -55,13 +60,11 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=FFFFFF">
   <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF&labelColor=FFFFFF">
   <img alt="MongoDB Compass" src="https://img.shields.io/badge/mongodb_compass-000000?style=for-the-badge&logoColor=000000&labelColor=FFFFFF">
-  <img alt="Playwright" src="https://img.shields.io/badge/playwright-000000?style=for-the-badge&logoColor=000000&labelColor=FFFFFF">
 </div>
-
 
 ### Github Usage
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=senthur-kumaran" alt="Senthurkumaran" height="135em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senthur-kumaran&show_icons=true&locale=en&layout=compact" alt="Senthurkumaran" height="135em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senthur-kumaran&langs_count=3&hide=python" alt="Senthurkumaran" height="135em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senthur-kumaran" alt="Senthurkumaran" height="135em" />
 </div>
