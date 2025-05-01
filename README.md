@@ -32,7 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="ESlint" height="40em" />
-  <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/prettier.svg" alt="Prettier" height="40em" />
+  <img src="https://gregberge.com/static/a15f8dc6cde9d6dc9e94a2edb43b6108/7c22d/banner.webp" alt="Prettier" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="Npm" height="40em" />
   
   <img src="https://mui.com/static/logo.png" alt="MaterialUI" height="40em" />
