@@ -65,6 +65,8 @@
 ### Github Usage
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senthur-kumaran&langs_count=3&hide=python" alt="Senthurkumaran" height="135em" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=senthur-kumaran" alt="Senthurkumaran" height="135em" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senthur-kumaran" alt="Senthurkumaran" height="135em" />
 </div>
