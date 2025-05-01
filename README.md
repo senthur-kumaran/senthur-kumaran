@@ -50,12 +50,11 @@
   <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="40em" />
   <img src="https://download.logo.wine/logo/Confluence_(software)/Confluence_(software)-Logo.wine.png" alt="Confluence" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" height="40em" />
-  <img src="https://seeklogo.com/images/M/miro-logo-4F00416377-seeklogo.com.png" alt="Miro" height="40em" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.png" alt="VSCode" height="40em" />
+  <img src="https://cdn.brandfetch.io/idAnDTFapY/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Miro" height="40em" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" height="40em" />
   <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" height="40em" />
-  <img src="https://miro.medium.com/max/500/1*gfRYo-rPffBU7Yr9FlSIQA.png" alt="Robo3t" height="40em" />
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UamMwdFj--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/uzuqnrbwq3mjnuch2z2w.png" alt="MongoDB Compass" height="40em" />
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*s8PWC1Y8z6XextVQkA38Jw.jpeg" alt="MongoDB Compass" height="40em" />
 </div>
 
 
