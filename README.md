@@ -71,6 +71,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senthur-kumaran" alt="Senthurkumaran" height="135em" />
 </div>
 
+<!-- https://www.youtube.com/watch?v=onUx22pgiBM -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senthur-kumaran/senthur-kumaran/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senthur-kumaran/senthur-kumaran/output/github-snake.svg" />
