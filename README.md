@@ -70,3 +70,9 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senthur-kumaran" alt="Senthurkumaran" height="135em" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senthur-kumaran/senthur-kumaran/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senthur-kumaran/senthur-kumaran/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/senthur-kumaran/senthur-kumaran/output/github-snake.svg" />
+</picture>
