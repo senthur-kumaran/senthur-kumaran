@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Senthurkumaran Sivasubramaniam
 
-- 🔭 I’m currently working as Senior Software Engineer (Full stack)
+- 🔭 I’m currently working as Lead Software Engineer (Full stack)
 - 🌱 I’m currently learning about Web3
 - 💬 Ask me about anything on [![Stackoverflow Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/senthur-kumaran/)
 - 📫 How to reach me on [![Linkedin Badge](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=flat-square&logo=Stackoverflow&color=lightgrey)](https://stackoverflow.com/users/6293914/senthurkumaran)
